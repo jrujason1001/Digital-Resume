@@ -1,6 +1,8 @@
 # Digital-Resume
 # 💫 About Me:
-🔭 I’m currently not working<br>👯 I’m looking to collaborate with someone who has strong security Skills<br>🤝 I’m looking for help with the following:<br>- Cyber Security<br>🌱 I’m currently learning C++ and Shell Script<br>💬 Ask me about the following:<br>- Math<br>- Python<br>- Javascript<br>- Web Development<br>⚡ Fun fact:<br>- I'm an Introvert<br>- Always participate in Challenges<br>🏆 Competitions I joined: <br>- Coding weekend in Citra Kasih SHS<br>💻 Certifications I have:<br>- Web Development Basic Skills<br>- Basic Javascript Skills<br><br>
+🔭 I’m currently not working<br>👯 I’m looking to collaborate with someone who has strong security Skills<br>🤝 I’m looking for help with the following:<br>- Cyber Security<br>🌱 I’m currently learning C++ and Shell Script<br>💬 Ask me about the following:<br>- Math<br>- Python<br>- Javascript<br>- Web Development<br>⚡ Fun fact:<br>- I'm an Introvert<br>- Always participate in Challenges<br>🏆 Competitions I joined: <br>- Coding weekend in Citra Kasih SHS<br> 📝 List of Certificates:<br>
+<strong>Link to Certificate:</strong>
+https://drive.google.com/drive/u/0/folders/16LZPhVWP_jrS1UNxAFYTzDa89xWA-Ae2
 
 
 # 💻 Tech Stack:
