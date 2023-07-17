@@ -1,11 +1,15 @@
 # Digital-Resume
 # 💫 About Me:
-🔭 I’m currently not working<br>👯 I’m looking to collaborate with someone who has strong security Skills<br>🤝 I’m looking for help with the following:<br>- Cyber Security<br>🌱 I’m currently learning C++ and Shell Script<br>💬 Ask me about the following:<br>- Math<br>- Python<br>- Javascript<br>- Web Development<br>-Science(Physics and Chemistry)<br>-Linux Command line<br>⚡ Fun fact:<br>- I'm active to join any activities outside academic<br>- Always participate in Challenges<br>🏆 Competitions I joined: <br>- Coding weekend in Citra Kasih SHS<br>- Sains Nasional Olympics regency level<br> 📝 List of Certificates:<br>
+🔭 I’m currently not working<br>👯 I’m looking to collaborate with someone that can help my learning progress<br>🤝 I’m looking for help with the following:<br>- Python<br>🌱 I’m currently learning Python for Security<br>💬 Ask me about the following:<br>- Math<br>- Python<br>- Javascript<br>- Web Development<br>-Science(Physics and Chemistry)<br>-Linux Command line<br>⚡ Fun fact:<br>- I'm active to join any activities outside academic<br>- Always participate in Challenges<br>🏆 Competitions I joined: <br>- Coding weekend in Citra Kasih SHS<br>- Sains Nasional Olympics regency level<br> Clubs I participated: <br>🎙️ Debate(From Sep 2022)<br><br> 📝 List of Certificates:<br>
 <strong>Link to Certificate:</strong>
 https://drive.google.com/drive/u/0/folders/16LZPhVWP_jrS1UNxAFYTzDa89xWA-Ae2<br>
 <br>
 <strong>🏓 Activities outside academic:</strong><br>
 📰 Journalist<br>🎸 Guitar<br>🏊🏼 Swimming<br>
+<br>
+<strong> 👤 Organisations that I participated:</strong><br>
+⛪️ Altar Servants<br>
+🖋️ Class leader
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
