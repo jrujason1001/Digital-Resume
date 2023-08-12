@@ -1,6 +1,6 @@
 # Digital-Resume
 # 💫 About Me:
-🔭 I’m currently not working<br>👯 I’m looking to collaborate with someone that can help my learning progress<br>🤝 I’m looking for help with the following:<br>- Python<br>🌱 I’m currently learning Python for Security<br>💬 Ask me about the following:<br>- Math<br>- Python<br>- Javascript<br>- Web Development<br>-Science(Physics and Chemistry)<br>-Linux Command line<br>⚡ Fun fact:<br>- I'm active to join any activities outside academic<br>- Always participate in Challenges<br>🏆 Competitions I joined: <br>- Coding weekend in Citra Kasih SHS<br>- Sains Nasional Olympics regency level<br> Clubs I participated: <br>🎙️ Debate(From Sep 2022)<br><br> 📝 List of Certificates:<br>
+🔭 I’m currently not working<br>👯 I’m looking to collaborate with anyone that wants to make friends<br>🤝 I’m looking for help with the following:<br>- Python<br>🌱 I’m currently learning Python for Security<br>💬 Ask me about the following:<br>- Math<br>- Python<br>- Javascript<br>- Web Development<br>-Science(Physics and Chemistry)<br>-Linux Command line<br>⚡ Fun fact:<br>- I'm active to join any activities outside academic<br>- Always participate in Challenges<br>🏆 Competitions I joined: <br>- Coding weekend in Citra Kasih SHS<br>- Informatics Nasional Olympics regency level<br> Clubs I participated: <br>🎙️ Debate(From Sep 2022)<br><br> 📝 List of Certificates:<br>
 <strong>Link to Certificate:</strong>
 https://drive.google.com/drive/u/0/folders/16LZPhVWP_jrS1UNxAFYTzDa89xWA-Ae2<br>
 <br>
